@@ -1,0 +1,201 @@
+year,industry,gpg
+2014,"Agriculture, forestry and fishing",11.14
+2014,Mining,32.87
+2014,Manufacturing,7.28
+2014,"Electricity, gas, water and waste services",15.07
+2014,Construction,19.16
+2014,Wholesale trade,8.57
+2014,Retail trade,15.08
+2014,Accommodation and food services,7.24
+2014,"Transport, postal and warehousing",16.47
+2014,Information Media and telecommunications,18.23
+2014,Financial and insurance services,30.11
+2014,"Rental, hiring and real estate services",34.04
+2014,"Professional, scientific and technical services",23.45
+2014,Administrative and support services,19.3
+2014,Public administration and safety,11.69
+2014,Education and training,13.89
+2014,Health care and social assistance,15.38
+2014,Arts and recreation services,-5.79
+2014,Other services,27.4
+2014,Total,15.77
+2015,"Agriculture, forestry and fishing",13.61
+2015,Mining,20.33
+2015,Manufacturing,13.96
+2015,"Electricity, gas, water and waste services",9.73
+2015,Construction,8.21
+2015,Wholesale trade,16.06
+2015,Retail trade,13.53
+2015,Accommodation and food services,13.5
+2015,"Transport, postal and warehousing",18.92
+2015,Information Media and telecommunications,29.29
+2015,Financial and insurance services,28.62
+2015,"Rental, hiring and real estate services",31.4
+2015,"Professional, scientific and technical services",22.24
+2015,Administrative and support services,8.49
+2015,Public administration and safety,13.47
+2015,Education and training,13.86
+2015,Health care and social assistance,19.64
+2015,Arts and recreation services,9.02
+2015,Other services,17.68
+2015,Total,13.34
+2016,"Agriculture, forestry and fishing",10.91
+2016,Mining,24.19
+2016,Manufacturing,15.57
+2016,"Electricity, gas, water and waste services",23.93
+2016,Construction,0
+2016,Wholesale trade,17.28
+2016,Retail trade,14.42
+2016,Accommodation and food services,10.1
+2016,"Transport, postal and warehousing",15.69
+2016,Information Media and telecommunications,21.02
+2016,Financial and insurance services,27.88
+2016,"Rental, hiring and real estate services",30.29
+2016,"Professional, scientific and technical services",17.71
+2016,Administrative and support services,9.53
+2016,Public administration and safety,11.67
+2016,Education and training,9.02
+2016,Health care and social assistance,22.02
+2016,Arts and recreation services,16.71
+2016,Other services,26.53
+2016,Total,13.73
+2017,"Agriculture, forestry and fishing",4.33
+2017,Mining,16.16
+2017,Manufacturing,16.67
+2017,"Electricity, gas, water and waste services",13.07
+2017,Construction,17.42
+2017,Wholesale trade,12
+2017,Retail trade,10.33
+2017,Accommodation and food services,8.02
+2017,"Transport, postal and warehousing",13.45
+2017,Information Media and telecommunications,30.82
+2017,Financial and insurance services,27.83
+2017,"Rental, hiring and real estate services",18.2
+2017,"Professional, scientific and technical services",27.33
+2017,Administrative and support services,7.94
+2017,Public administration and safety,5.68
+2017,Education and training,14.93
+2017,Health care and social assistance,16.21
+2017,Arts and recreation services,9
+2017,Other services,11.24
+2017,Total,12.97
+2018,"Agriculture, forestry and fishing",17.78
+2018,Mining,22.1
+2018,Manufacturing,18.96
+2018,"Electricity, gas, water and waste services",33.24
+2018,Construction,17.09
+2018,Wholesale trade,11.62
+2018,Retail trade,11.01
+2018,Accommodation and food services,10
+2018,"Transport, postal and warehousing",16.88
+2018,Information Media and telecommunications,11.17
+2018,Financial and insurance services,23.43
+2018,"Rental, hiring and real estate services",18.49
+2018,"Professional, scientific and technical services",23.66
+2018,Administrative and support services,15.93
+2018,Public administration and safety,10.15
+2018,Education and training,14.99
+2018,Health care and social assistance,16.67
+2018,Arts and recreation services,10.59
+2018,Other services,16.75
+2018,Total,13.7
+2019,"Agriculture, forestry and fishing",12.27
+2019,Mining,25.45
+2019,Manufacturing,17.79
+2019,"Electricity, gas, water and waste services",27.44
+2019,Construction,9.1
+2019,Wholesale trade,16.64
+2019,Retail trade,13.66
+2019,Accommodation and food services,2.5
+2019,"Transport, postal and warehousing",20.35
+2019,Information Media and telecommunications,12.53
+2019,Financial and insurance services,22.96
+2019,"Rental, hiring and real estate services",18.57
+2019,"Professional, scientific and technical services",20.15
+2019,Administrative and support services,10.31
+2019,Public administration and safety,10.29
+2019,Education and training,13.28
+2019,Health care and social assistance,18.82
+2019,Arts and recreation services,1.9
+2019,Other services,17.19
+2019,Total,15.31
+2020,"Agriculture, forestry and fishing",5.21
+2020,Mining,17.15
+2020,Manufacturing,19.03
+2020,"Electricity, gas, water and waste services",18.99
+2020,Construction,3.04
+2020,Wholesale trade,4.71
+2020,Retail trade,10.03
+2020,Accommodation and food services,8.31
+2020,"Transport, postal and warehousing",10.31
+2020,Information Media and telecommunications,15.82
+2020,Financial and insurance services,29.68
+2020,"Rental, hiring and real estate services",16.18
+2020,"Professional, scientific and technical services",23.26
+2020,Administrative and support services,7.06
+2020,Public administration and safety,10.2
+2020,Education and training,9.57
+2020,Health care and social assistance,13.33
+2020,Arts and recreation services,6.3
+2020,Other services,14.57
+2020,Total,10.53
+2021,"Agriculture, forestry and fishing",5.19
+2021,Mining,21.24
+2021,Manufacturing,17.18
+2021,"Electricity, gas, water and waste services",11.28
+2021,Construction,5.77
+2021,Wholesale trade,14.84
+2021,Retail trade,9.34
+2021,Accommodation and food services,15.34
+2021,"Transport, postal and warehousing",10.71
+2021,Information Media and telecommunications,14.91
+2021,Financial and insurance services,30.66
+2021,"Rental, hiring and real estate services",16.19
+2021,"Professional, scientific and technical services",22.18
+2021,Administrative and support services,10.71
+2021,Public administration and safety,9.85
+2021,Education and training,12.47
+2021,Health care and social assistance,11.5
+2021,Arts and recreation services,17.1
+2021,Other services,16.59
+2021,Total,10.58
+2022,"Agriculture, forestry and fishing",6.12
+2022,Mining,33.52
+2022,Manufacturing,11.79
+2022,"Electricity, gas, water and waste services",16.03
+2022,Construction,9.66
+2022,Wholesale trade,9.71
+2022,Retail trade,9.13
+2022,Accommodation and food services,6.65
+2022,"Transport, postal and warehousing",11.21
+2022,Information Media and telecommunications,12.29
+2022,Financial and insurance services,15.88
+2022,"Rental, hiring and real estate services",10.96
+2022,"Professional, scientific and technical services",24.93
+2022,Administrative and support services,10.57
+2022,Public administration and safety,6.49
+2022,Education and training,11.27
+2022,Health care and social assistance,13.04
+2022,Arts and recreation services,-4.25
+2022,Other services,17.73
+2022,Total,10.35
+2023,"Agriculture, forestry and fishing",-2.49
+2023,Mining,33.47
+2023,Manufacturing,10.89
+2023,"Electricity, gas, water and waste services",17.11
+2023,Construction,9.68
+2023,Wholesale trade,13.63
+2023,Retail trade,14.78
+2023,Accommodation and food services,10.68
+2023,"Transport, postal and warehousing",12.97
+2023,Information Media and telecommunications,16.6
+2023,Financial and insurance services,23.33
+2023,"Rental, hiring and real estate services",10.57
+2023,"Professional, scientific and technical services",18.16
+2023,Administrative and support services,12.26
+2023,Public administration and safety,4.2
+2023,Education and training,12.49
+2023,Health care and social assistance,12.57
+2023,Arts and recreation services,18.58
+2023,Other services,22.09
+2023,Total,11.35
